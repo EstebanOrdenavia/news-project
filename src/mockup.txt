@@ -1,0 +1,14 @@
+Primera pagina
+    -Header
+    -buscador
+    -boton
+    -footer
+    -loading
+    -errorMensaje
+    -Noticias
+    -paginador
+    -Error404
+
+Segunda Pagina 
+(Detalle noticia)
+    -noticia
